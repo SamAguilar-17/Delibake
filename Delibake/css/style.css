@@ -1,0 +1,88 @@
+body{
+    background-color:#F08080;
+}
+
+.principal{
+    background: linear-gradient(90deg,rgba(127, 255, 212, 0.7) 0%, rgba(255, 105, 180, 0.91) 100%);;
+    padding: 20px;
+    border-radius: 4px;
+    margin-top: auto;
+    font-family: "Jost", serif;
+}
+.letrero{
+    background-color: #C3FDB8;
+    border-radius: 15%;
+    width:40%;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+.letrero h1{
+  font-family: "Kavoon", serif;
+  font-weight: 20%;
+  font-style: normal;
+    text-align: center;
+}
+
+.prin{
+    padding: 8%;
+    border-radius: 4px;
+    margin-top: auto; 
+}
+.letre{
+    background-color: #C3FDB8;
+    border-radius: 15%;
+    width:40%;
+    margin-left: 30%;
+    margin-top: 7%;
+    text-align: center;
+}
+h1{
+    padding:20px;
+}
+.row{
+    padding: 20px 0;
+    margin-top: 10px 0;
+}
+.tarjetas-1 .card{
+    margin:5px 0;
+   background-color: #f5deb3;
+}
+.portada{
+    width:100%;
+    margin-top: 4%;
+    padding: 3%;
+}
+.comida{
+    margin-top:5%;
+}
+a{
+    font-family: "Kotta One", serif;
+}
+.red{
+	display:inline-block;
+	text-align:center;
+	margin-bottom:15px;
+	margin-left:10px;
+	padding:10px;
+}
+.red label{
+	display:block;
+	color:black;
+    font-family: "Kavoon", serif;
+}
+.red img{
+	display:block;
+	width:60px;
+}
+i{
+    color:#8a2be2;
+}
+footer{
+    text-align:center;
+    margin-top:3%;
+    background-color:#b0c4de;
+    width:100%;
+}
+.boton{
+    text-align: center;
+}
